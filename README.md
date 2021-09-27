@@ -3,6 +3,8 @@ This project aims to generate a tool to visualize continuous EEG (Electroencepha
 
 https://figshare.com/articles/dataset/EEG_Data/5393338/1
 
+Becuase of the size of each EEG signal rae data file and the consideration of copy right. I did not upload the data to this project. For testing and further development, please download the dataset from the link above.
+
 # Installs
 The project was only developed and tested under the Debian-based systems. This project makes calls to *jgraph* (generate figrues of EEG signal plot), *ps2pdf* (converting the jgraph outputs to PDF), *convert* (converting the PDF to JPEG) and ffmpeg (creating the mp4 video from mutilple jpeg images). 
 
